@@ -5,11 +5,11 @@ We call it DRÖMA and the name DRÖMA comes from the first letters in the develo
 
 Developers
 
-Dalibor Petrovic
-Robin Rehnberg https://github.com/RobinReh
-Ömersahin Keskin https://github.com/OmerSahinKeskin
-Mojtaba Ataeie https://github.com/mojtabaataie
-Allan Ridha https://github.com/Marwix
+Dalibor Petrovic<br/>
+Robin Rehnberg https://github.com/RobinReh<br/>
+Ömersahin Keskin https://github.com/OmerSahinKeskin<br/>
+Mojtaba Ataeie https://github.com/mojtabaataie<br/>
+Allan Ridha https://github.com/Marwix<br/>
 
 To play this game open you need to have java installed.
 
