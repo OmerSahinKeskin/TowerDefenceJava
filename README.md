@@ -1,7 +1,7 @@
 # TowerDefenceJava
 This project was done as a school project on the course DAT055 Object Oriented Applications.
 
-We call it DRÖMA and DRÖMA is the first letters on the developers that developed this project.
+We call it DRÖMA and the name DRÖMA comes from the first letters in the developers names.
 
 Developers
 
